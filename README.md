@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Abdullahi-abdiaziz/news-homepage-main)
-- Live Site URL: [Add live site URL here](https://news-homepag-challenge.netlify.app/)
+- Solution URL: [GitHub repo](https://github.com/Abdullahi-abdiaziz/news-homepage-main)
+- Live Site URL: [Netlify live site](https://news-homepage-frontend.netlify.app/)
 
 ## My process
 
